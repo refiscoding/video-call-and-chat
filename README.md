@@ -2,6 +2,7 @@
 - This application launches a video call with real time status updates from participants 
 
 ## Tools used:
+- Reactjs
 - Node and yarn
 - Daily-JS library (https://docs.daily.co/reference/daily-js) - handle the low level details of the video call
 - Firebase RTDB (https://firebase.google.com/docs/database/web/start) to sync statuses in real time across participants in the video call
