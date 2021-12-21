@@ -1,7 +1,6 @@
 import { initializeApp } from "firebase/app";
 import { getDatabase, ref } from 'firebase/database'
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyAb-Cf9dVon4sZnHO9_vnGBKoZ11nh41sM",
   authDomain: "flow-club-starter-code.firebaseapp.com",
